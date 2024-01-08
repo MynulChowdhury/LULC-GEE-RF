@@ -1,0 +1,3 @@
+- ArcGIS for "chittagong.shp".
+- Earth Engine JS API to run the script, "CTG_Metropoliton_LULC_2020.js".
+- output at "/output" directory.
